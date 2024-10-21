@@ -1,6 +1,6 @@
 # Desafio 2
 
 ## María Laura Manrique
-## Github Repo:
-## Nettlify: 
+## Github Repo: https://github.com/MariaLauraManrique/desafio02.git
+## Netlify: 
 
