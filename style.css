@@ -1,1 +1,30 @@
 
+h1{
+  color: blueviolet;
+  font-size: 32px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    color: rgb(56, 170, 122);
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    color: rgb(82, 82, 233);
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h4{
+    color: rgb(214, 31, 67);
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{  font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#color-fucsia{
+    color: rgb(160, 13, 99);
+}
+.color-rosa{
+    color: rgb(247, 176, 211);
+}
